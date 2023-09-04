@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/krunal-29/Teacher-s-Day/static/css/main.2f2c4264.css",
-    "main.js": "/krunal-29/Teacher-s-Day/static/js/main.74da6af4.js",
-    "static/js/787.db1aeebb.chunk.js": "/krunal-29/Teacher-s-Day/static/js/787.db1aeebb.chunk.js",
-    "static/media/technishal.png": "/krunal-29/Teacher-s-Day/static/media/technishal.794fa42c1b4bfce088f9.png",
-    "index.html": "/krunal-29/Teacher-s-Day/index.html",
-    "main.2f2c4264.css.map": "/krunal-29/Teacher-s-Day/static/css/main.2f2c4264.css.map",
-    "main.74da6af4.js.map": "/krunal-29/Teacher-s-Day/static/js/main.74da6af4.js.map",
-    "787.db1aeebb.chunk.js.map": "/krunal-29/Teacher-s-Day/static/js/787.db1aeebb.chunk.js.map"
+    "main.css": "/Teacher-s-Day/static/css/main.2f2c4264.css",
+    "main.js": "/Teacher-s-Day/static/js/main.6df516bd.js",
+    "static/js/787.db1aeebb.chunk.js": "/Teacher-s-Day/static/js/787.db1aeebb.chunk.js",
+    "static/media/technishal.png": "/Teacher-s-Day/static/media/technishal.794fa42c1b4bfce088f9.png",
+    "index.html": "/Teacher-s-Day/index.html",
+    "main.2f2c4264.css.map": "/Teacher-s-Day/static/css/main.2f2c4264.css.map",
+    "main.6df516bd.js.map": "/Teacher-s-Day/static/js/main.6df516bd.js.map",
+    "787.db1aeebb.chunk.js.map": "/Teacher-s-Day/static/js/787.db1aeebb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2c4264.css",
-    "static/js/main.74da6af4.js"
+    "static/js/main.6df516bd.js"
   ]
 }
